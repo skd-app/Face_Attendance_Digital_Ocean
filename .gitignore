@@ -1,0 +1,13 @@
+# virtual env folder at same git folder
+virtual_env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# .DS_Store
+*.DS_Store*
+
+*.ipynb
+*.ipynb_checkpoints
+
+

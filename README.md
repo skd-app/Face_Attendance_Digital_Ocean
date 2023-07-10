@@ -1,1 +1,2 @@
-# Face_Attendance_Digital_Ocean
+# Employee_Attendance_Face_Recognition_App
+Python, Django, Postgresql
